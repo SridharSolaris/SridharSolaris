@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @SridharSolaris
+- [![An image of @sridharsolaris's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sridharsolaris)](https://holopin.io/@sridharsolaris)
 - 👀 I’m interested in Web Development, JAVA Programming and Cybersecurity
 - 🌱 I’m currently learning everything to advanced
 - 📫 How to reach me ... Telegram id: @sridharspirit
